@@ -1,0 +1,35 @@
+# delay.notes
+
+> A personal notebook of an undergraduate archaeology student in China.
+
+## About
+
+delay.notes is a personal knowledge-sharing site maintained by a single author
+currently studying archaeology at university in China. The site is written
+primarily in Chinese and covers coursework, readings, and reflections across
+archaeology, history, philosophy, anthropology, and related humanities fields.
+
+Content is continuously updated and is intended for reference only.
+The site has been running since 2022.
+
+## Content
+
+Notes are the sole output of the site author. They are not collaborative or
+crowd-sourced. Entries typically follow the structure of university courses or
+books, and may include reading notes, lecture summaries, and personal
+annotations. Content spans Chinese and world archaeology, classical Chinese
+thought, Western philosophy, anthropology, and literary history, among other
+subjects.
+
+## Audience & Interaction
+
+The site is publicly readable. Visitors may register an account to leave
+comments on notes. A question box (留言提问功能) is available for anyone to
+submit questions to the author anonymously or with attribution; the author
+responds publicly on the same page.
+
+## Rights
+
+Content is the intellectual property of the site author.
+Non-commercial reproduction is permitted with attribution.
+Commercial use and unauthorized reproduction are prohibited.
